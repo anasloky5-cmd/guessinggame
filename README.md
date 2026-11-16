@@ -1,5 +1,5 @@
 # Guessing Game
 
-**Date and time make was run:** Mon Nov 16 19:57:42 MST 2026
+**make was run on:** Mon Nov 16 20:09:01 MST 2026
 
-**Number of lines of code in guessinggame.sh:** 34
+**Lines of code in guessinggame.sh:** 38
